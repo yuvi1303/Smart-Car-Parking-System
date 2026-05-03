@@ -6,3 +6,8 @@ IoT-based smart parking system using Arduino and sensors
 
 ### Circuit Diagram
 ![Circuit](circuit.jpg)
+
+
+## 🧑‍💻 Code
+The complete Arduino code for NodeMCU is available in this repository.
+
